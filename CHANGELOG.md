@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-11-04)
+## Unreleased (2026-11-06)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`9b0a318`](https://github.com/stdlib-js/stdlib/commit/9b0a318e484a1db9cb78380ac8fc823a2865e3ae) - **docs:** remove non-applicable buffer parameters [(#16489)](https://github.com/stdlib-js/stdlib/pull/16489) _(by Philipp Burckhardt)_
 -   [`df6a746`](https://github.com/stdlib-js/stdlib/commit/df6a74632f48f3b94ccef066c3a681afd135e55e) - **style:** remove unused lint rule _(by Athan Reines)_
 -   [`d7bef11`](https://github.com/stdlib-js/stdlib/commit/d7bef113249f11e582a5282f9ce2402129391229) - **feat:** add `ndarray/vector/generic` _(by Athan Reines)_
 
@@ -35,9 +36,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Philipp Burckhardt
 
 </section>
 
